@@ -1,0 +1,50 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "project_id": "p_80bc",
+  "author": {
+    "id": "609878013"
+  },
+  "entry": "main.lua",
+  "version": "1.0.65",
+  "taptap_publish": {
+    "title": "猫咪地牢搜打撤",
+    "description": "猫咪地牢搜打撤 是一款俯视角生存搜刮射击游戏。\n\n你是一只持枪的猫，独自闯入一座 20 层的危险地牢。搜刮箱子、收集物资、击杀敌人、活着撤离。每一层都是随机挑战，每一局都是一次新的冒险。\n\n搜到的东西带出去就是你的，阵亡了——全部丢失。",
+    "category": "action",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "【v1.0.56 更新日志】\n\n▎新功能\n· 技能树系统：3大分支（战斗/搜刮/生存），24个可解锁技能节点\n· 所有技能树加成均已实装生效\n\n▎安全\n· 屏蔽开发者调试功能\n\n——\n地牢压抑，音乐孤独，你是猫。感谢你玩到这里。",
+    "app_platforms": "1,2",
+    "gameplay_demo_video_source": "https://tapcode-sce.spark.xd.com/videos/p_80bc/1780329002165-rec_a90875fd-49b3-49c2-b9d6-e2693d24fbc5.mp4",
+    "developer_id": 400458,
+    "app_id": 862352,
+    "miniapp_id": "tapmcxhmg1fv5h6ize"
+  },
+  "assets": {
+    "icon": "./game_material/icon.png",
+    "screenshots": [
+      "./game_material/SCREENSHOT_2026-05-25T14-05-15_01.png",
+      "./game_material/SCREENSHOT_2026-05-25T14-05-15_02.png",
+      "./game_material/SCREENSHOT_2026-05-25T14-05-15_03.png"
+    ],
+    "promotional_image": "./game_material/PROMO_2026-05-26T11-43-14_01.jpg",
+    "icon_url": "https://tapcode-sce.spark.xd.com/assets/game_material/p_80bc/icon.png",
+    "screenshot_urls": [
+      "https://tapcode-sce.spark.xd.com/assets/game_material/猫咪枪手地牢/SCREENSHOT_2026-05-25T14-05-15_01.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/猫咪枪手地牢/SCREENSHOT_2026-05-25T14-05-15_02.png",
+      "https://tapcode-sce.spark.xd.com/assets/game_material/猫咪枪手地牢/SCREENSHOT_2026-05-25T14-05-15_03.png"
+    ],
+    "promotional_image_url": "https://tapcode-sce.spark.xd.com/assets/game_material/猫咪地牢搜打撤/PROMO_2026-05-26T11-43-14_01.jpg",
+    "cover_horizontal": "./.project/game_material/COVER_HORIZONTAL_2026-05-26T11-53-27_01.png",
+    "cover_horizontal_url": "https://tapcode-sce.spark.xd.com/assets/game_material/猫咪地牢搜打撤/COVER_HORIZONTAL_2026-05-26T11-53-27_01.png",
+    "cover_vertical": "./game_material/COVER_VERTICAL_2026-05-26T11-56-31_01.png",
+    "cover_vertical_url": "https://tapcode-sce.spark.xd.com/assets/game_material/猫咪地牢搜打撤/COVER_VERTICAL_2026-05-26T11-56-31_01.png"
+  },
+  "metadata": {
+    "updated_at": "2026-06-06T13:08:49.260Z",
+    "promo_dependent_hash": "792d08aeafeabb73d8341fbe4c3c0b0c"
+  },
+  "test_qrcode": {
+    "url": "https://tapcode-sce.spark.xd.com/qrcode/p_80bc_1780751329124.png",
+    "generated_at": "2026-06-06T13:08:49.260Z"
+  }
+}

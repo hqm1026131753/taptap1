@@ -1,0 +1,23 @@
+{
+  "version": "1.0",
+  "entries": [
+    {
+      "source": "https://tapcode-sce.spark.xd.com/videos/p_80bc/1779718419408-rec_a88b0a82-de64-4789-af8e-d5f9cad2d253.mp4",
+      "source_type": "remote",
+      "video_id": 5678548,
+      "sha256": "f14ceee456f086d49ed61eb8e98c0a05ad06e4e39906cc731700826ceb79412f",
+      "etag": "\"98428112CF5F886225EC6758B32CCF4E\"",
+      "last_modified": "Mon, 25 May 2026 14:13:42 GMT",
+      "content_length": 9252255
+    },
+    {
+      "source": "https://tapcode-sce.spark.xd.com/videos/p_80bc/1780329002165-rec_a90875fd-49b3-49c2-b9d6-e2693d24fbc5.mp4",
+      "source_type": "remote",
+      "video_id": 5692150,
+      "sha256": "16386527460f26aa89fe78c598e78875f2953e7b633951488fc08b8d5a8e0adc",
+      "etag": "\"C8195033C3371EABC41934D4DF7B3CA1\"",
+      "last_modified": "Mon, 01 Jun 2026 15:50:07 GMT",
+      "content_length": 9091392
+    }
+  ]
+}
